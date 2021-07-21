@@ -3,9 +3,9 @@
 Numpy is a python library which provides efficient data structures for reperesenting a rich varieties of arrays and methods and function to operate the same.
 
 
-##Data Types
+## Data Types
 
-###Basic Numerical Data Types Available in NumPy
+### Basic Numerical Data Types Available in NumPy
 | dtype |                  Variants          |              Description               |
 |:-----:|:----------------------------------:|:--------------------------------------:|
 |  int  |        int8, int16, int32, int64   |               Integers                 |
